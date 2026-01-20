@@ -60,8 +60,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Bhumesh01&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhumesh01&theme=highcontrast&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumesh01&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
