@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=Bhumesh01&theme=highcontrast&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumesh01&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects, discuss tech, or help fellow developers on their journey. Feel free to reach out!
